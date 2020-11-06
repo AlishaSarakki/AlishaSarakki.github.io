@@ -1,0 +1,49 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+# About Me
+
+## Academic Experience
+
+I am a second year MPH candidate at Columbia University's Mailman School of Public Health, in the Department of Population and Family Health wtih a certificate in Global Health. Prior to Columbia, I attended Scripps College in Claremont, CA where I graduated with a dual Bachelor's degree in Biology and Dance in 2019. 
+
+## Professional Experience
+### Teaching
+As a graduate Teaching Assistant at Columbia University's Mailman School of Public Health, I developed and adapted content for the Global and Developmental Perspectives module within the first-year Core curriculum. I created interactive Rise content to better engage students with asynchronous lectures, developed in-class activities for remote learning, and assisted with forming various assessment materials throughout the Lifecourse module of the Global and Developmental Perspectives curriculum. I have also worked extensively with students to ensure smooth adjustment to and success in an extremely rigorous academic curriculum. 
+
+### Research
+I am currently working with Dr. Emma Sacks at the Johns Hopkins Bloomberg School of Public Health to co-author a qualitative literature review on demographic indicators for traditional postpartum confinement practices among women in China and Vietnam.
+
+At Columbia, I am also currently working on a project with Dr. Melissa Stockwell to gather more information about patients' experience with telelactation consulting as part of a multi-department telehealth initiative at New York Presbyterian. 
+
+From 2017-2019, I co-authored an abstract and wrote a thesis on the validation and use of Beam Balance tasks as a measure of dynamic balance in collegiate Ballet and Bharatanatyam dancers. I helped develop, execute, and present this research project with the help of Dr. Kelli Sharp at the University of California, Irvine Claire Trevor School of the Arts.
+
+In 2018, I worked with Dr. Edward Uchio and Phillip Duffy on several clinical trials for kidney, bladder, and prostate cancers. I was primarily responsible for data entry, organization, and analysis for a $1.2 million prostate cancer trial run by the California Initiative to Advance Precision Medicine. 
+
+
+
+## Here's a subsection
+
+And here's some additional text...
+
+```{r}
+rnorm(10)
+```
+
+## Links to other websites
+
+let's link to useful tools for data science:
+
+* [Google](https://www.google.com)
+* [P8105](https://p8105.com)
+
+## Local image
+
+
+## Link to page within the site
+[about](about_me.html)
