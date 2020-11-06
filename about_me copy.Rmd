@@ -6,11 +6,10 @@ output:
     toc_float: true
     theme: flatly
 ---
-# About Me
 
 ## Academic Experience
 
-I am a second year MPH candidate at Columbia University's Mailman School of Public Health, in the Department of Population and Family Health wtih a certificate in Global Health. Prior to Columbia, I attended Scripps College in Claremont, CA where I graduated with a dual Bachelor's degree in Biology and Dance in 2019. 
+I am a second year MPH candidate at Columbia University's Mailman School of Public Health, in the Department of Population and Family Health with a certificate in Global Health. Prior to Columbia, I attended Scripps College in Claremont, CA where I graduated with a dual Bachelor's degree in Biology and Dance in 2019. 
 
 ## Professional Experience
 ### Teaching
@@ -27,23 +26,14 @@ In 2018, I worked with Dr. Edward Uchio and Phillip Duffy on several clinical tr
 
 
 
-## Here's a subsection
-
-And here's some additional text...
-
-```{r}
-rnorm(10)
-```
-
 ## Links to other websites
 
-let's link to useful tools for data science:
+Here are some links to other sources of my online presence:
 
-* [Google](https://www.google.com)
-* [P8105](https://p8105.com)
-
-## Local image
+* [GitHub](https://github.com/AlishaSarakki)
+* [LinkedIn](https://www.linkedin.com/in/alisha-sarakki-481a55149/)
 
 
-## Link to page within the site
-[about](about_me.html)
+
+
+

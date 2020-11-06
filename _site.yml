@@ -4,15 +4,15 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about_me.html
+      href: about_me-copy.html
     - text: "Plotly"
-      href: plotly.html
+      href: plotly-copy.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:alloveraspam@gmail.com>
+      href: mailto:aps2204@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/AlishaSarakki/
 output:
   html_document:
     theme: flatly
