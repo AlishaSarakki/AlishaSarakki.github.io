@@ -69,7 +69,7 @@ nyc_inspections %>%
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Korean Restaurants and their health inspection grades in Manhattan, by latitude and longitude
 
 ```{r}
 nyc_subset %>% 
@@ -81,7 +81,7 @@ plot_ly(
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Critical flags in census tract areas
 
 ```{r}
 nyc_subset %>% 
@@ -89,7 +89,7 @@ nyc_subset %>%
           type = "box", colors = "viridis")
 ```
 
-### Chart C
+### Number of each Korean restaurant in Manhattan
 
 ```{r}
 nyc_subset %>% 

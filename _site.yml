@@ -5,8 +5,6 @@ navbar:
   right:
     - text: "About"
       href: about_me-copy.html
-    - text: "Plotly"
-      href: AlishaPlotly.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
