@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about_me-copy.html
     - text: "Plotly"
-      href: plotly-copy.html
+      href: AlishaPlotly.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
