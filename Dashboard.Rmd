@@ -81,7 +81,7 @@ plot_ly(
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Critical flags in census tract areas
+### Korean restaurants' critical flags in census tract areas
 
 ```{r}
 nyc_subset %>% 
